@@ -1,0 +1,11 @@
+syntax: glob
+
+*.apk
+*.keystore
+
+.DS_Store
+.git
+
+target/*
+compiled/*
+
